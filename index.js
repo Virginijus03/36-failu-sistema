@@ -75,22 +75,22 @@ const helpers = require('./lib/helpers')
 //     }
 //     console.log(data);
 // })
-const zodis = 'Labas rytas';
-const uzsifruotasZodis = helpers.hash(zodis);
+// const zodis = 'Labas rytas';
+// const uzsifruotasZodis = helpers.hash(zodis);
 
-console.log(zodis);
-console.log(uzsifruotasZodis);
-
-
-const zodis1 = 'Labas rytat';
-const uzsifruotasZodis1 = helpers.hash(zodis1);
-
-console.log(zodis1);
-console.log(uzsifruotasZodis1);
+// console.log(zodis);
+// console.log(uzsifruotasZodis);
 
 
-const zodis2 = 'Labas rytat';
-const uzsifruotasZodis2 = helpers.hash(zodis2);
+// const zodis1 = 'Labas rytat';
+// const uzsifruotasZodis1 = helpers.hash(zodis1);
 
-console.log(zodis2);
-console.log(uzsifruotasZodis2);
+// console.log(zodis1);
+// console.log(uzsifruotasZodis1);
+
+
+// const zodis2 = 'Labas rytat';
+// const uzsifruotasZodis2 = helpers.hash(zodis2);
+
+// console.log(zodis2);
+// console.log(uzsifruotasZodis2);
